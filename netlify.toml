@@ -1,5 +1,5 @@
 [build]
-publish = "public"
+publish = "public"help .e please there going to kill me 
 command = "hugo"
 
 [context.production.environment]
