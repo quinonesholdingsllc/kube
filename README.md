@@ -162,7 +162,7 @@ MIT
 - [kube framework](https://kube7.imperavi.com/)
 - [after dark theme](https://github.com/comfusion/after-dark)
 
-## Contact
+## 
 
 This is the second theme I've made for Hugo, so I'm sure I've done some things wrong or assumed too much. If you have ideas or things that should be fixed, please let me know.
 
